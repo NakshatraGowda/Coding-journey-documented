@@ -11,7 +11,6 @@
 
 
 
-package hackerrank;
 import java.util.Scanner;
 public class Sum_of_array {
 
