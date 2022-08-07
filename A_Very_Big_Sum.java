@@ -10,8 +10,6 @@
  */
 
 
-
-package hackerrank;
 import java.util.Scanner;
 public class A_Very_Big_Sum {
 
