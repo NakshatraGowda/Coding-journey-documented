@@ -28,7 +28,6 @@ Sample Output 1
  */
 
 
-package hackerrank;
 import java.util.Scanner;
 public class Compare_the_Triplets {
 
