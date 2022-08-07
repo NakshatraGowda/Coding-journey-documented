@@ -1,5 +1,5 @@
 /*Problem statement - 
- Given a 2D integer array with n rows and m columns. Print the 0th row from input n times, 1st row n-1 times…..(n-1)th row will be printed 1 time.
+ Given a 2D integer array with n rows and m columns. Print the 0th row from input n times, 1st row n-1 timesâ€¦..(n-1)th row will be printed 1 time.
  
  Sample Input 1:
 	3 3
@@ -19,7 +19,7 @@
 
 
 
-package hackerrank;
+
 import java.util.Scanner;
 public class Array_2D {
 		public static void main(String[] args)
