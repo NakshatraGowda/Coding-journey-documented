@@ -20,8 +20,6 @@ Sample output 1
 	
  */
 
-
-package hackerrank;
 import java.util.Scanner;
 import java.lang.*;
 public class Diagonal_Difference {
