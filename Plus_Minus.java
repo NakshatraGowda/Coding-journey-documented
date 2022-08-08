@@ -14,7 +14,6 @@
  */
 
 
-package hackerrank;
 import java.util.Scanner;
 public class Plus_Minus {
 
