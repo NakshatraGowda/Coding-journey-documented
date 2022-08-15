@@ -14,7 +14,7 @@
   2
   
   */
-package hackerrank;
+
 import java.util.Scanner;
 public class birthdayCakeCandles {
 
