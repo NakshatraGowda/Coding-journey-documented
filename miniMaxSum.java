@@ -9,7 +9,6 @@
  
  */
 
-package hackerrank;
 import java.util.Scanner;
 public class miniMaxSum {
 
